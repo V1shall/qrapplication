@@ -2,7 +2,6 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:loginpage/loginscreen.dart';
-import 'package:loginpage/qrcode.dart';
 import 'package:http/http.dart' as http;
 
 class Register extends StatefulWidget {
